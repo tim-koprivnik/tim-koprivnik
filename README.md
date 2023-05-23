@@ -1,6 +1,6 @@
-### Greetings, Digital Traveler! 🙋‍♂️
+# Greetings, Digital Traveler! 🙋‍♂️
 
-# About me:
+### About me
 
 I'm an open-minded individual with a penchant for simplicity and peace. I place great value on living an intentional life, free from unnecessary stress, and strive to cultivate a mindset of continuous learning and personal growth. My interests span a broad spectrum, from diving into a good book, indulging in insightful docuseries, engaging in various sports, exploring new places, and encountering diverse people. Music serves as my soul's sanctuary and the sense of progress fuels my zest for life.
 
@@ -8,7 +8,7 @@ In an ideal world, I envision a society where the pursuit of money and materiali
 
 I live by the principle of Newton's 3rd law: reciprocity. The respect, kindness, and fairness I receive inform how I respond. I strive to uphold fairness and empathy in my interactions and look forward to meeting individuals who share the same values. Just like life, I believe that what you give is what you get.
 
-# "Hard" skills:
+### "Hard" skills:
 
 - Proficiency in HTML, CSS, JavaScript (ES6+), React, and Typescript, as well as familiarity with Next.js
 - Experience in API integration, and proficiency with various development tools like npm, yarn, Webpack, Babel, and Git
