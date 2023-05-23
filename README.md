@@ -8,7 +8,7 @@ In an ideal world, I envision a society where the pursuit of money and materiali
 
 I live by the principle of Newton's 3rd law: reciprocity. The respect, kindness, and fairness I receive inform how I respond. I strive to uphold fairness and empathy in my interactions and look forward to meeting individuals who share the same values. Just like life, I believe that what you give is what you get.
 
-### "Hard" skills:
+### "Hard" skills
 
 - Proficiency in HTML, CSS, JavaScript (ES6+), React, and Typescript, as well as familiarity with Next.js
 - Experience in API integration, and proficiency with various development tools like npm, yarn, Webpack, Babel, and Git
@@ -18,7 +18,7 @@ I live by the principle of Newton's 3rd law: reciprocity. The respect, kindness,
 - Proficiency with design tools like Adobe XD, Figma, Photoshop, and a strong understanding of UI/UX principles
 - Competence in Agile scrum methodology, project management tools, and team communication platforms
 
-# “Soft” skills:
+### “Soft” skills
 
 - Advanced proficiency in English
 - Embodying reliability, dedication, and self-motivation
