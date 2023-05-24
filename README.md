@@ -24,4 +24,4 @@ I live by the principle of Newton's 3rd law: reciprocity. The respect, kindness,
 - Embodying reliability, dedication, and self-motivation
 - An organized approach with a strong desire to learn and grow
 - Open-minded and fair, with a focus on kindness
-- An intuitive understanding of diverse human behavior
+- An intuitive understanding of diverse human behaviour
