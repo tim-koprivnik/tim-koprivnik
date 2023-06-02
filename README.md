@@ -10,7 +10,7 @@ I live by the principle of Newton's 3rd law: reciprocity. The respect, kindness,
 
 ### "Hard" skills
 
-- Proficiency in HTML, CSS, JavaScript (ES6+), React, and Typescript, as well as familiarity with Next.js
+- Proficiency in HTML, (S)CSS, JavaScript (ES6+), React, and Typescript, as well as familiarity with Next.js
 - Experience in API integration, and proficiency with various development tools like npm, yarn, Webpack, Babel, and Git
 - Strong understanding of front-end methodologies (BEM, SMACSS, Atomic design) and accessibility standards (WCAG)
 - Expertise in optimizing speed (Lighthouse, PageSpeed Insights), SEO, and cross-browser and cross-device testing
