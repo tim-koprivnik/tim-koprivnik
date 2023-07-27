@@ -14,7 +14,7 @@ I live by the principle of Newton's 3rd law: reciprocity. The respect, kindness,
 - Experience in API integration, and proficiency with various development tools like npm, yarn, Webpack, Babel, and Git
 - Strong understanding of front-end methodologies (BEM, SMACSS, Atomic design) and accessibility standards (WCAG)
 - Expertise in optimizing speed (Lighthouse, PageSpeed Insights), SEO, and cross-browser and cross-device testing
-- Experience with MySQL, Postgres, PHP (Laravel), and CMS (Drupal, WordPress)
+- Experience with SQL, Supabase, Firebase, PHP (Laravel), and CMS (Drupal, WordPress)
 - Proficiency with design tools like Adobe XD, Figma, Photoshop, and a strong understanding of UI/UX principles
 - Competence in Agile scrum methodology, project management tools, and team communication platforms
 
