@@ -1,4 +1,4 @@
-# Greetings, Digital Traveler! 🙋‍♂️
+# Hello, World! 🙋‍♂️
 
 ### About me
 
