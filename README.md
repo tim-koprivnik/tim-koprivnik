@@ -1,5 +1,5 @@
 <p align="center">
-<a href="[https://www.yushi.dev/](https://tim-koprivnik.netlify.app)" target="_blank" rel="noreferrer"><img src="https://github.com/tim-koprivnik/tim-koprivnik/assets/42032201/1ff39852-0b4d-4779-98ba-e9cf3d39256c" alt="my banner"></a>
+<a href="https://tim-koprivnik.netlify.app" target="_blank" rel="noreferrer"><img width="100%" height="350" src="https://github.com/tim-koprivnik/tim-koprivnik/assets/42032201/1ff39852-0b4d-4779-98ba-e9cf3d39256c" alt="my banner"></a>
 </p>
 
 <h3 align="center">
