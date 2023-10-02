@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAFwGLtQixI/EXEzAa6PVh7PXYw5XbC5Rg/view?utm_content=DAFwGLtQixI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="Banner img"/>
+https://www.canva.com/design/DAFwGLtQixI/EXEzAa6PVh7PXYw5XbC5Rg/view?utm_content=DAFwGLtQixI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 # Hello, World! 🙋‍♂️
 
