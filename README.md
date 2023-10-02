@@ -1,4 +1,7 @@
-https://www.canva.com/design/DAFwGLtQixI/EXEzAa6PVh7PXYw5XbC5Rg/view?utm_content=DAFwGLtQixI&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+<p align="center">
+<img width="100%" height="400" src="https://github.com/tim-koprivnik/tim-koprivnik/assets/42032201/1ff39852-0b4d-4779-98ba-e9cf3d39256c" alt="My banner">
+</p>
 
 # Hello, World! 🙋‍♂️
 
