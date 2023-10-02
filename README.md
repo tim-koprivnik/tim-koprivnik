@@ -6,10 +6,6 @@
 Hi there, I'm <a href="https://tim-koprivnik.netlify.app/" target="_blank" rel="noreferrer">Tim</a> 👋
 </h3>
 
-<h2 align="center">
-Frontend Web Developer 💻, Amateur DJ 🎵, and Gamer 🕹️!
-</h2> 
-
 ## 💁‍♂️ About me
 I'm an open-minded individual with a penchant for simplicity and peace. I place great value on living an intentional life, free from unnecessary stress, and strive to cultivate a mindset of continuous learning and personal growth. My interests span a broad spectrum, from diving into a good book, indulging in insightful docuseries, engaging in various sports, exploring new places, and encountering diverse people. Music serves as my soul's sanctuary and the sense of progress fuels my zest for life.
 
