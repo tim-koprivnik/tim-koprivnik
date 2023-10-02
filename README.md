@@ -11,7 +11,7 @@ I'm an open-minded individual with a penchant for simplicity and peace. I place 
 
 In an ideal world, I envision a society where the pursuit of money and materialistic possessions is not the ultimate ambition, and where exploitation does not mar human relations. I dream of a world that values empathy, kindness, and fairness over all else.
 
-I live by the principle of Newton's 3rd law: reciprocity. The respect, kindness, and fairness I receive inform how I respond. I strive to uphold fairness and empathy in my interactions and look forward to meeting individuals who share the same values. I give what I get.
+I live by the principle of Newton's 3rd law: reciprocity. The respect, kindness, and fairness I receive inform how I respond. I strive to uphold fairness and empathy in my interactions and look forward to meeting individuals who share the same values. In other words, I give what I get.
 
 ### 🤝 Connect with me:
 
