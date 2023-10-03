@@ -24,6 +24,7 @@ I live by the principle of Newton's 3rd law: reciprocity. The respect, kindness,
 ## 🌱 I'm currently learning
 
 - 📱 Node.js
+- 🎶 DJ-ing
 
 ## 💼 Technical Skills
 
