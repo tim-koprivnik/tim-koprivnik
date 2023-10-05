@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://tim-koprivnik.netlify.app/" target="_blank" rel="
 </h3>
 
 ## 💁‍♂️ About me
-I'm an open-minded individual with a penchant for simplicity and peace. I place great value on living an intentional life, free from unnecessary stress, and strive to cultivate a mindset of continuous learning and personal growth. My interests span a broad spectrum, from diving into a good book, indulging in insightful docuseries, engaging in various sports, exploring new places, and encountering diverse people. Music serves as my soul's sanctuary and the sense of progress fuels my zest for life.
+I'm an open-minded individual with a penchant for simplicity and peace. I place great value on living an intentional life, free from unnecessary stress, and strive to cultivate a mindset of continuous learning and personal growth. My interests span a broad spectrum, from gaming, diving into a good book, listening to chill music, indulging in insightful docuseries, engaging in various sports, exploring new places, and encountering diverse people. Music serves as my soul's sanctuary and the sense of personal growth fuels my zest for life.
 
 In an ideal world, I envision a society where the pursuit of money and materialistic possessions is not the ultimate ambition, and where exploitation does not mar human relations. I dream of a world that values empathy, kindness, and fairness over all else.
 
