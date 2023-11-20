@@ -1,7 +1,3 @@
-<p align="center">
-<a href="https://tim-koprivnik.netlify.app" target="_blank" rel="noreferrer"><img width="100%" height="200" src="https://github.com/tim-koprivnik/tim-koprivnik/assets/42032201/daaa2401-2a0a-4792-8fe5-81e800a87e5d" alt="my banner"></a>
-</p>
-
 <h3 align="center">
 Hi there, I'm <a href="https://tim-koprivnik.netlify.app/" target="_blank" rel="noreferrer">Tim</a> 👋
 </h3>
