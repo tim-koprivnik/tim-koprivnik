@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
 Hi there, I'm <a href="https://tim-koprivnik.netlify.app/" target="_blank" rel="noreferrer">Tim</a> 👋
-</h3>
+</h1>
 
 ## 💁‍♂️ About me
 I'm an open-minded individual with a penchant for simplicity and peace. I place great value on living an intentional life, free from unnecessary stress, and strive to cultivate a mindset of continuous learning and personal growth. My interests span a broad spectrum, from gaming, diving into a good book, listening to chill music, indulging in insightful docuseries, engaging in various sports, exploring new places, and encountering diverse people. Music serves as my soul's sanctuary and the sense of personal growth fuels my zest for life.
