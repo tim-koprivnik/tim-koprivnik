@@ -15,7 +15,7 @@ I am a Frontend Web Developer/Engineer with 4+ years of experience, blending tec
 
 ## 🌱 I'm currently learning
 
-- 📱 Node.js
+- 📱 Node.js, Express, MongoDB, Mongoose
 - 🎶 DJ-ing
 
 ## 💼 Technical Skills
