@@ -3,7 +3,13 @@ Hi there, I'm <a href="https://tim-koprivnik.netlify.app/" target="_blank" rel="
 </h1>
 
 ## 💁‍♂️ About me
-I am a Frontend Web Developer/Engineer with 4+ years of experience, blending technical expertise with philosophical insight. Committed to simplicity, efficiency, and continuous learning, I aim to enhance my skills in the ever-evolving digital landscape. I value literature, music, and engaging with diverse ideas, advocating for empathy, truth, and mutual respect in both my personal and professional life. My approach is based on reciprocity, driving me to foster positive, collaborative relationships at work and in life in general.
+As a seasoned Frontend Web Developer/Engineer, I bring a unique blend of technical expertise and philosophical insight to my work. My approach is grounded in a commitment to simplicity, efficiency, and mindfulness, influenced by my studies in philosophy and my dedication to living an intentional life.
+
+I am deeply passionate about continuous learning and personal growth, constantly seeking to enhance my technical skills and broaden my understanding of the digital landscape.
+
+My interests extend beyond the screen, encompassing a love for literature, music, and engaging with diverse ideas through podcasts and documentaries. I am an advocate for creating a more empathetic and fair society, believing strongly in the principles of truth, kindness, and mutual respect. In my professional interactions, I strive to embody these values, fostering collaborative and positive relationships with colleagues and clients alike.
+
+Driven by the principle of reciprocity, I believe in giving back what I receive, approaching each project and team interaction with fairness, empathy, and a willingness to understand and relate to diverse perspectives. This mindset not only enriches my personal life but also enhances my ability to connect with and contribute to diverse teams in the dynamic field of web development.
 
 ### 🤝 Connect with me:
 
