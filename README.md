@@ -3,11 +3,7 @@ Hi there, I'm <a href="https://tim-koprivnik.netlify.app/" target="_blank" rel="
 </h1>
 
 ## 💁‍♂️ About me
-I'm an open-minded individual with a penchant for simplicity and peace. I place great value on living an intentional life guided by Buddhist principles, and strive to cultivate a mindset of continuous learning and personal growth. My interests span a broad spectrum, from gaming, diving into a good book, listening to chill music, watching educational podcasts and docuseries, engaging in various sports, exploring new places, and encountering nonconformist people. Music serves as my soul's sanctuary and the sense of personal growth fuels my zest for life.
-
-In an ideal world, I envision a society where the pursuit of money and materialistic possessions is not the ultimate ambition, and where exploitation does not mar human relations. I dream of a world that values truth, empathy, kindness, and fairness over all else. (Delusional, I know.)
-
-I live by the principle of Newton's 3rd law: reciprocity. The respect, kindness, and fairness I receive inform how I respond. I strive to uphold fairness and empathy in my interactions and look forward to meeting individuals who share the same values. In other words, I give what I get.
+I am a Frontend Web Developer/Engineer with 4+ years of experience, blending technical expertise with philosophical insight. Committed to simplicity, efficiency, and continuous learning, I aim to enhance my skills in the ever-evolving digital landscape. I value literature, music, and engaging with diverse ideas, advocating for empathy, truth, and mutual respect in both my personal and professional life. My approach is based on reciprocity, driving me to foster positive, collaborative relationships at work and in life in general.
 
 ### 🤝 Connect with me:
 
