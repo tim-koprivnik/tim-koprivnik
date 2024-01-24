@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://tim-koprivnik.netlify.app/" target="_blank" rel="
 </h1>
 
 ## 💁‍♂️ About me
-As a seasoned Frontend Web Developer/Engineer, I bring a unique blend of technical expertise and philosophical insight to my work. My approach is grounded in a commitment to simplicity, efficiency, and mindfulness, influenced by my studies in philosophy and my dedication to living an intentional life.
+As a seasoned (Frontend) Web Developer, I bring a unique blend of technical expertise and philosophical insight to my work. My approach is grounded in a commitment to simplicity, efficiency, and mindfulness, influenced by my studies in philosophy and my dedication to living an intentional life.
 
 I am deeply passionate about continuous learning and personal growth, constantly seeking to enhance my technical skills and broaden my understanding of the digital landscape.
 
@@ -29,6 +29,7 @@ Driven by the principle of reciprocity, I believe in giving back what I receive,
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
