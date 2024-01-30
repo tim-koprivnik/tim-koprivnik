@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there, I'm <a href="https://tim-koprivnik.vercel.app/" target="_blank" rel="noreferrer">Tim</a> 👋
+Hi there, I'm <a href="https://tim-koprivnik.vercel.app/" target="_blank" rel="noreferrer">Tim</a> 
 </h1>
 
 ## About me
