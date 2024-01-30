@@ -1,8 +1,8 @@
 <h1 align="center">
-Hi there, I'm <a href="https://tim-koprivnik.netlify.app/" target="_blank" rel="noreferrer">Tim</a> 👋
+Hi there, I'm <a href="https://tim-koprivnik.vercel.app/" target="_blank" rel="noreferrer">Tim</a> 👋
 </h1>
 
-## 💁‍♂️ About me
+## About me
 As a seasoned (Frontend) Web Developer, I bring a unique blend of technical expertise and philosophical insight to my work. My approach is grounded in a commitment to simplicity, efficiency, and mindfulness, influenced by my studies in philosophy and my dedication to living an intentional life.
 
 I am deeply passionate about continuous learning and personal growth, constantly seeking to enhance my technical skills and broaden my understanding of the digital landscape.
@@ -11,20 +11,19 @@ My interests extend beyond the screen, encompassing a love for literature, music
 
 Driven by the principle of reciprocity, I believe in giving back what I receive, approaching each project and team interaction with fairness, empathy, and a willingness to understand and relate to diverse perspectives. This mindset not only enriches my personal life but also enhances my ability to connect with and contribute to diverse teams in the dynamic field of web development.
 
-### 🤝 Connect with me:
+### Connect with me:
 
 <a href="https://www.linkedin.com/in/tim-koprivnik/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="Tim Koprivnik | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/tim.koprivnik/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Tim Koprivnik | Instagram" width="21px"/></a>
 <a href="https://twitter.com/TimKoprivnik"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Tim Koprivnik | Twitter" width="21px"/></a>
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
-## 🌱 I'm currently learning
+## I'm currently learning
 
-- 📱 Node.js, Express, MongoDB, Mongoose
-- 🎶 DJ-ing
+- Node.js, Express, MongoDB, Mongoose
+- DJ-ing
 
-## 💼 Technical Skills
+## Technical Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
