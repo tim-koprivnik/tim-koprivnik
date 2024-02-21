@@ -20,7 +20,6 @@ Driven by the principle of reciprocity, I believe in giving back what I receive,
 
 ## I'm currently learning
 
-- MongoDB, Mongoose
 - Vue
 - DJ-ing
 
