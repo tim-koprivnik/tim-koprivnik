@@ -18,10 +18,10 @@ Driven by the principle of reciprocity, I believe in giving back what I receive,
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
-## I'm currently learning
+## I'm currently interested in
 
-- Vue
-- DJ-ing
+- Vue (finishing learning it)
+- Go (will start learning it soon)
 
 ## Technical Skills
 
