@@ -18,7 +18,7 @@ Driven by the principle of reciprocity, I believe in giving back what I receive,
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
-## I'm currently interested
+## I'm currently interested in ...
 
 - Go(lang)
 - Blockchain technology
