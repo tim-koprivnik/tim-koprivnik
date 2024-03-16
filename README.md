@@ -18,11 +18,6 @@ Driven by the principle of reciprocity, I believe in giving back what I receive,
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
-## I'm currently interested in ...
-
-- Go(lang)
-- Blockchain technology
-
 ## Technical Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
