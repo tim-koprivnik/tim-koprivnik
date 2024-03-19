@@ -18,6 +18,11 @@ Driven by the principle of reciprocity, I believe in giving back what I receive,
 </br>
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 
+## Currently learning / interested in
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+
 ## Technical Skills
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
