@@ -3,7 +3,7 @@ Hi there, I'm <a href="https://tim-koprivnik.vercel.app/" target="_blank" rel="n
 </h1>
 
 ## About me
-As a seasoned (Frontend) Web Developer, I bring a unique blend of technical expertise and philosophical insight to my work. My approach is grounded in a commitment to simplicity, efficiency, and mindfulness, influenced by my studies in philosophy and my dedication to living an intentional life.
+As a seasoned (Frontend) Developer, I bring a unique blend of technical expertise and philosophical insight to my work. My approach is grounded in a commitment to simplicity, efficiency, and mindfulness, influenced by my studies in philosophy and my dedication to living an intentional life.
 
 I am deeply passionate about continuous learning and personal growth, constantly seeking to enhance my technical skills and broaden my understanding of the digital landscape.
 
