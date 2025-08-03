@@ -2,7 +2,7 @@
 Hi there, I'm <a href="https://tim-koprivnik.vercel.app/" target="_blank" rel="noreferrer">Tim</a> 
 </h1>
 
-## About me
+## About
 Frontend Engineer, blending love for technology with a philosophical mindset.
 
 I’m committed to simplicity, efficiency, stoicism, and lifelong learning in every aspect of my life. Like Mark Manson, I ignore 99% of life’s noise, zeroing in on what matters most: personal growth. Echoing Socrates, I believe an unexamined life isn’t worth living. As an introvert, I cherish quiet reflection and think most people talk too much. I love watching docuseries, listening to podcasts, reading books, gaming, going to the gym, and playing sports. One day, I’ll rescue a dog from a shelter. I also believe humanity works too hard for money and material things we don’t need—it’s time we chase a higher purpose.
