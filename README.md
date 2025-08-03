@@ -7,13 +7,6 @@ Frontend Engineer, blending love for technology with a philosophical mindset.
 
 Committed to simplicity, efficiency, stoicism, and continuous learning in all aspects of my life. As Mark Manson 'preaches', I don't give a f*** about most things in life, but I do give a strong f*** about values -- such as truth, honesty, integrity, respect, fairness, and freedom --, and people I care about the most. As Socrates, I strongly believe that 'the unexamined life is not worth living.' I love watching psychological (docu)series, listening to podcasts, reading books, gaming, weightlifting, and playing sports. As an introvert, I believe people talk too much and that quietness is underrated. Once in my life, I want to save a dog from a shelter. What else... Yes... I also strongly believe that we work too much and that, as a species, it's about time we find some higher purpose than just having more money and material shit we don't even need.
 
-### Connect with me:
-
-<a href="https://www.linkedin.com/in/tim-koprivnik/"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/f/f8/LinkedIn_icon_circle.svg" alt="Tim Koprivnik | LinkedIn" width="21px"/></a>
-<a href="https://twitter.com/TimKoprivnik"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg" alt="Tim Koprivnik | Twitter" width="21px"/></a>
-</br>
-- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
-
 ## Technical Skills
 ### Main
 
