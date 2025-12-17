@@ -5,7 +5,7 @@ Hi there, I'm <a href="https://tim-koprivnik.vercel.app/" target="_blank" rel="n
 ## About
 Frontend Engineer, blending love for technology with a philosophical mindset.
 
-I’m committed to simplicity, efficiency, stoicism, and lifelong learning in every aspect of my life. Like Mark Manson, I ignore 99% of life’s noise, zeroing in on what matters most: personal growth. Echoing Socrates, I believe an unexamined life isn’t worth living. As an introvert, I cherish quiet reflection and think most people talk too much. I love watching docuseries, listening to podcasts, reading books, gaming, going to the gym, and playing sports. One day, I’ll rescue a dog from a shelter. I also believe humanity works too hard for money and material things we don’t need—it’s time we chase a higher purpose.
+I'm committed to simplicity, efficiency, stoicism, and lifelong learning in every aspect of my life. Like Mark Manson, I ignore 99% of life's noise, zeroing in on what matters most: personal growth. Echoing Socrates, I believe an unexamined life isn't worth living. As an introvert, I cherish quiet reflection and think most people talk too much. I love watching docuseries, listening to podcasts, reading books, gaming, going to the gym, and playing sports. I also believe humanity works too hard for money and material things we don't need—it's time we chase a higher purpose.
 
 ## Technical Skills
 ### Main
@@ -19,9 +19,8 @@ I’m committed to simplicity, efficiency, stoicism, and lifelong learning in ev
 
 - Libraries & Frameworks
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React.js](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -53,6 +52,7 @@ I’m committed to simplicity, efficiency, stoicism, and lifelong learning in ev
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 - Libraries & Frameworks
 
