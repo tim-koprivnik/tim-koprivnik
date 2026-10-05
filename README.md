@@ -3,6 +3,7 @@ Hi there, I'm <a href="https://tim-koprivnik.vercel.app/" target="_blank" rel="n
 </h1>
 
 ## About
+
 I build and improve web and mobile apps. I like owning a feature from planning to delivery. I like work that is simple and finished.
 
 I studied philosophy and landed somewhere between pessimism and irony: nothing matters much in the grand scheme, and the fact that it doesn't matter doesn't matter either. So I try to do good work, stay curious, and not take myself too seriously.
