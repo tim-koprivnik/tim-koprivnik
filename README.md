@@ -3,9 +3,11 @@ Hi there, I'm <a href="https://tim-koprivnik.vercel.app/" target="_blank" rel="n
 </h1>
 
 ## About
-Frontend Engineer, blending love for technology with a philosophical mindset.
+I build and improve web and mobile apps. I like owning a feature from planning to delivery. I like work that is simple and finished.
 
-I'm committed to simplicity, efficiency, stoicism, and lifelong learning in every aspect of my life. Like Mark Manson, I ignore 99% of life's noise, zeroing in on what matters most: personal growth. Echoing Socrates, I believe an unexamined life isn't worth living. As an introvert, I cherish quiet reflection and think most people talk too much. I love watching docuseries, listening to podcasts, reading books, gaming, going to the gym, and playing sports. I also believe humanity works too hard for money and material things we don't need—it's time we chase a higher purpose.
+I studied philosophy and landed somewhere between pessimism and irony: nothing matters much in the grand scheme, and the fact that it doesn't matter doesn't matter either. So I try to do good work, stay curious, and not take myself too seriously.
+
+Outside work: the gym, sports, books, series, podcasts, the occasional game, and a lot of quiet.
 
 ## Technical Skills
 ### Main
